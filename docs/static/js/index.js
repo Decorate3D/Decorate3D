@@ -46,7 +46,7 @@ $(document).ready(function() {
 
     let options = {
 			slidesToScroll: 1,
-			slidesToShow: 4,
+			slidesToShow: 5,
 			loop: false,
 			infinite: false,
             pagination: false,

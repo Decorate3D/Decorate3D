@@ -95,6 +95,7 @@ body {
     height: 0;
     padding-bottom: 56.25%;
 
+
     overflow: hidden;
     border-radius: 10px !important;
 }
@@ -139,6 +140,7 @@ body {
 }
 
 .interpolation-video-column {
+
 }
 
 .interpolation-panel .slider {

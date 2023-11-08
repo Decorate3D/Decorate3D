@@ -14,7 +14,7 @@ We provide some sample results in the path ``docs/samples/'', which include 4 te
 
 ## Code 
 
-Due to the confidential rule, we cannot release the code of the paper. But it is easy to reproduce the paper. Here are some references that may help. 
+We cannot release the code of the paper. But it is easy to reproduce the paper. Here are some references that may help. 
 - 3D scene reconstruction with NeRF (extracting Mesh & UV): [NeuS](https://github.com/Totoro97/NeuS)
 - Depth condition diffusion model: [Diffusion](https://huggingface.co/stabilityai/stable-diffusion-2-depth)
 - SDS sample code for 3D: [Threestudio](https://github.com/threestudio-project/threestudio)
